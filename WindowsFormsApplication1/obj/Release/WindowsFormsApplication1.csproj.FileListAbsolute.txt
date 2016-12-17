@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Main.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\bin\Release\ThermalPrinter_Simple001.exe.config

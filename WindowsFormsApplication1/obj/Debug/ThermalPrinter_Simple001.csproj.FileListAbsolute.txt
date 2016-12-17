@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\bin\Debug\ThermalPrinter_Simple001.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\bin\Debug\ThermalPrinter_Simple001.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\bin\Debug\ThermalPrinter_Simple001.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\obj\Debug\ThermalPrinter.About.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\obj\Debug\ThermalPrinter.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\obj\Debug\ThermalPrinter_Simple001.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\obj\Debug\ThermalPrinter_Simple001.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\obj\Debug\ThermalPrinter_Simple001.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ThermalPrinter_Simple001\WindowsFormsApplication1\obj\Debug\ThermalPrinter_Simple001.csprojResolveAssemblyReference.cache
